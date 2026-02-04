@@ -3,5 +3,14 @@ body {
 }
 
 h1 {
-    text-align: center;
+  text-align: center;
+  color: #148bf3;
+}
+
+footer {
+  font-size: 0.8em;
+  text-align: center;
+}
+.coder {
+  color: rgb(230, 73, 193);
 }
